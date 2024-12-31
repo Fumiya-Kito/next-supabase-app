@@ -11,7 +11,7 @@ export default async function Header() {
         <Link href="/">LOGO</Link>
       </Button>
       <Button asChild variant={'ghost'} className="font-bold text-xl">
-        <Link href="/about">About</Link>
+        <Link href="/items">商品一覧</Link>
       </Button>
       <Button asChild variant={'ghost'} className="font-bold text-xl">
         <Link href="/mypage">MyPage</Link>
